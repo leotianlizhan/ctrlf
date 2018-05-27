@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "120964254989",
+    "firebase_url": "https://ctrl-f-2ae24.firebaseio.com",
+    "project_id": "ctrl-f-2ae24",
+    "storage_bucket": "ctrl-f-2ae24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120964254989:android:05591cffbe578cf2",
+        "android_client_info": {
+          "package_name": "com.zhan.leo.ctrlf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120964254989-nsbrcefdogadt7e7eoskfqvu2si17q4n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "120964254989-nsbrcefdogadt7e7eoskfqvu2si17q4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUZJcB6RGUgPGYa5d_AFsAVaDOdLJTAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
